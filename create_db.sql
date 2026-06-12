@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS clinibook;
+CREATE DATABASE clinibook;
